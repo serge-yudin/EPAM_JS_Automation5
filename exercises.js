@@ -7,3 +7,15 @@ animal.move = true;
 cat.__proto__ = animal;
 
 console.log(cat.move);
+
+/*
+let animal = {
+  move: true,
+  };
+  
+let cat = {
+  __proto__: animal,
+  };
+  
+*/
+
