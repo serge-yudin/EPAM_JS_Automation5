@@ -16,6 +16,6 @@ let animal = {
 let cat = {
   __proto__: animal,
   };
-  
+changed for testing purpose
 */
 
